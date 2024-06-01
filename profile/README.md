@@ -15,26 +15,27 @@
 
 ## News
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/company/sgn-sa)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/company/sgn-sa)
 [![twitter](https://img.shields.io/badge/𝕏/Twitter-000000?e&logo=x&logoColor=white)](https://x.com/sgn_ksa)
 [![instagram](https://img.shields.io/badge/Instagram-C13584?e&logo=instagram&logoColor=white)](https://instagram.com/sgn_sa)
-[![instagram](https://img.shields.io/badge/TikTok-010101?e&logo=tiktok&logoColor=white)](https://tiktok.com/@sgn_sa)
+[![tiktok](https://img.shields.io/badge/TikTok-010101?e&logo=tiktok&logoColor=white)](https://tiktok.com/@sgn_sa)
 
 ## Events
 
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/@sgn_sa)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@sgn_sa)
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?&logo=itch.io&logoColor=white)](https://sgn-sa.itch.io)
 
 ## Community
 
 [![discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/servers/saudign-962095121946521600)
+[![reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://reddit.com/r/SGN)
 
 # Support us
 
 ## Donate
 
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?&logo=patreon&logoColor=white)](https://patreon.com/SGN_sa)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-13C3FF?&logo=ko-fi&logoColor=white)](https://ko-fi.com/SGN_sa)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?&logo=patreon&logoColor=white)](https://patreon.com/SGN_sa)
 
 ## Review
 
